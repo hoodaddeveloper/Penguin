@@ -1,2 +1,2 @@
 # Penguin
-Learning CSS Transforms by Building a Penguin in www.freecodecamp.org
+Learning CSS transforms by building a Penguin in www.freecodecamp.org
